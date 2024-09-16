@@ -56,18 +56,3 @@ To run this project locally, follow these steps:
 
 The OmniFood landing page can be used as a template for food delivery services or as an example project for learning responsive web design.
 
-### How to customize
-
-- Update the text and images in the `index.html` file to fit your needs.
-- Modify the styles in the `styles.css` file to change the appearance of the page.
-- Add new sections or adjust the layout using the existing structure.
-
-
-
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
