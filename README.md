@@ -1,8 +1,6 @@
 
 # OmniFood Landing Page
 
-![OmniFood](https://shailesh14r.github.io/OmniFood-Landing-Page/images/omnifood-logo.png)
-
 A fully responsive landing page for OmniFood, a fictional food delivery service, built using HTML, CSS, and JavaScript. This project demonstrates modern web development practices and is optimized for performance and usability across various devices.
 
 ## Table of Contents
