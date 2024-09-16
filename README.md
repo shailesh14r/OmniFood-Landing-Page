@@ -10,7 +10,6 @@ A fully responsive landing page for OmniFood, a fictional food delivery service,
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Live Demo
 
@@ -64,9 +63,7 @@ The OmniFood landing page can be used as a template for food delivery services o
 - Add new sections or adjust the layout using the existing structure.
 
 
-## Contributing
 
-Contributions are welcome! If you'd like to improve this project or add features, feel free to:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
