@@ -8,8 +8,6 @@ A fully responsive landing page for OmniFood, a fictional food delivery service,
 - [Live Demo](#live-demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
 
 ## Live Demo
 
@@ -33,26 +31,3 @@ Check out the live version of the project here:
 - **Bootstrap** (For layout and responsive design)
 - **FontAwesome** (Icons)
 - **Google Fonts**
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/Shailesh14r/OmniFood-Landing-Page.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd OmniFood-Landing-Page
-    ```
-
-3. Open `index.html` in your browser to view the landing page.
-
-## Usage
-
-The OmniFood landing page can be used as a template for food delivery services or as an example project for learning responsive web design.
-
